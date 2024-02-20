@@ -1,0 +1,58 @@
+@media (max-width:575px) {
+
+/* user & why choose us section start */
+.heading_title h2 {
+    font-size: 30px;
+}
+
+.icon_check {
+    line-height: 4;
+}
+
+.line_text {
+    font-size: 15px;
+}
+
+.heading_title_chooseus h2 {
+    font-size: 30px;
+}
+
+.underline{
+    margin: 5px 0px;
+}
+/* user & why choose us section end */
+
+
+/* forhad_responsive_start */
+
+@media (max-width:991px) {
+    .res h2{
+    font-size: 40px;
+}
+.res p{
+    font-size: 30px;
+}
+.res h5{
+    font-size: 20px;
+}
+
+}
+@media (max-width:767px) {
+    .res h2{
+    font-size: 19px;
+}
+.res p{
+    font-size: 15px;
+}
+.res h5{
+    font-size: 15px;
+}
+.res img{
+    width: 40px;
+}
+
+}
+
+/* forhad_responsive_end */
+
+}

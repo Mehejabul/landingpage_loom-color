@@ -1,0 +1,240 @@
+/*Google font*/
+@import url('https://fonts.maateen.me/kalpurush/font.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Kalpurush', Arial, sans-serif !important;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.clr {
+    clear: both;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+:root{
+    --primary-color: #000000;
+}
+
+/*end of common css*/
+
+
+/* Forhad_css_start */
+.res h2{
+    font-size: 45px;
+}
+.res p{
+    font-size: 30px;
+}
+.res h5{
+    font-size: 25px;
+}
+
+/* Forhad_css_end */
+
+/* user feature start */
+.users{
+    background-color: #ffee8d;
+    padding: 30px 0px;
+}
+
+.heading_title{
+    padding: 15px 15px;
+    background-color: #24365e;
+    margin-bottom: 15px;
+}
+
+.heading_title h2{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.underline{
+    height: 2px;
+    background-color: #a2a2a2;
+    width: 100%;
+}
+
+.icon_check{
+    font-weight: bold;
+    color: #000000;
+    font-size: 15px;
+    display: -moz-inline-box;
+}
+
+.line_text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #2a2a2a;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.list_iteam{
+    display: flex;
+}
+
+.underline{
+    margin: 8px 0px;
+}
+
+/* user_feature_end */
+
+
+/* why_choose_us_start */
+
+.choose_us{
+    background-color: #ffd3d3;
+    padding: 30px 0px;
+}
+
+.heading_title_chooseus{
+    padding: 15px 15px;
+    background-color: #fc3e00;
+    margin-bottom: 15px;
+}
+
+.heading_title_chooseus h2{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+/* why_choose_us_end */
+
+
+/* alamincssstart */
+/* top color here */
+.order_color{
+    background-color: #C1D0F3;
+}
+/* top color end */
+
+/* order form here */
+.order_form{
+    font-weight:bold;
+    margin-top: 20px;
+    color: black;
+    border-radius: 4%;
+    padding: 1%;
+    background-color: white;
+    border: 3px solid #773D00;
+}
+/* order form end */
+
+/* billing & shipping here */
+.billing_text{
+    color: var(--primary-color);
+    font-weight: bold;
+}
+/* billing & shipping end */
+
+/* common start here */
+.name_text{
+    font-weight: bold;
+    color: var(--primary-color);
+}
+.text_star{
+    color: red;
+    font-weight: bold;
+}
+.required_text{
+    color: red;
+    margin-top: 2px;
+}
+/* common start end */
+
+/* form control here */
+.form-control{
+    border-top: 4px solid #2D2966;
+    border-left: 2px solid #2D2966;
+    border-right: 2px solid #2D2966;
+    border-bottom: 3px solid #2D2966;
+}
+/* form control end */
+
+/* order delevery start */
+.order_category{
+    display: flex;
+    gap: 250px;
+}
+/* order delevery start */
+.cash_on_delevery{
+    padding: 30px;
+    font-weight: bold;
+    background-color: white;
+    width: 100%;
+    height: 10%;
+}
+/* cash on delevery end */
+
+/* button start here  */
+.btn_value{
+    background-color: #eaeaea;
+    border: 2px solid #eaeaea;
+    width: 100%;
+}
+.btn_confirm{
+    width: 100%;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    background-color: green;
+    border-radius: 30px;
+    padding: 20px;
+}
+.btn_confirm:hover{
+    background-color: #000000;
+}
+.btn_confirm:hover{
+    color: #EAF200;
+}
+/* button start end */
+
+/* common border here */
+.common_border{
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 30px;
+    border-top:7px solid  #2D2966;
+    border-left:4px solid  #2D2966;
+    border-right:4px solid  #2D2966;
+    border-bottom:5px solid  #2D2966;
+}
+/* common border end */
+
+/* footer start here */
+.footer{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+/* footer start end */
+
+/* alamincssend */
+
