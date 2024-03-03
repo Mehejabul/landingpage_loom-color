@@ -48,6 +48,7 @@ a:hover {
 }
 .res p{
     font-size: 30px;
+    text-align: center;
 }
 .res h5{
     font-size: 25px;
@@ -218,9 +219,37 @@ a:hover {
     font-weight: bold;
     font-size: large;
     color: white;
-    background-color: green;
+    background-color: #24233e;
     padding: 20px;
     text-align: center;
+}
+
+.product_wrapper{
+    position: relative;
+    width: 100%;
+}
+
+.inner_button{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+    width: 80%;
+}
+
+.btn_offer{
+    width: 100%;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    background-color: rgba(71, 149, 155, 0.562);
+    padding: 20px;
+    text-align: center; 
+    border-radius: 10px;
+}
+
+.call_button{
+    margin: 20px 0px;
 }
 /* button start end */
 

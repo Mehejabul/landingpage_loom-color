@@ -20,6 +20,29 @@
 .underline{
     margin: 5px 0px;
 }
+
+.product_wrapper{
+   margin-bottom: 10px;
+}
+
+.call_button{
+    margin: 2px 0px;
+}
+
+.inner_button{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+    width: 80%;
+}
+
+.res p{
+    text-align: justify;
+    font-size: 15px !important;
+}
+
+}
 /* user & why choose us section end */
 
 
@@ -55,4 +78,3 @@
 
 /* forhad_responsive_end */
 
-}
